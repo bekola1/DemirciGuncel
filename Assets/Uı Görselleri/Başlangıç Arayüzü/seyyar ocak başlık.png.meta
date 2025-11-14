@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 514d51a450092174e8c3be1e320aca3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2875021629724794248
+    second: "seyyar ocak ba\u015Fl\u0131k_0"
+  - first:
+      213: -7255736261097890161
+    second: "seyyar ocak ba\u015Fl\u0131k_1"
+  - first:
+      213: -7459547911185571152
+    second: "seyyar ocak ba\u015Fl\u0131k_2"
+  - first:
+      213: 8978560909278910039
+    second: "seyyar ocak ba\u015Fl\u0131k_3"
+  - first:
+      213: -6494311506586472659
+    second: "seyyar ocak ba\u015Fl\u0131k_4"
+  - first:
+      213: 7402719913418090672
+    second: "seyyar ocak ba\u015Fl\u0131k_5"
+  - first:
+      213: 3809016297249862039
+    second: "seyyar ocak ba\u015Fl\u0131k_6"
+  - first:
+      213: 5971534250705364501
+    second: "seyyar ocak ba\u015Fl\u0131k_7"
+  - first:
+      213: -3111572178077672022
+    second: "seyyar ocak ba\u015Fl\u0131k_8"
+  - first:
+      213: 3785943027240915304
+    second: "seyyar ocak ba\u015Fl\u0131k_9"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "seyyar ocak ba\u015Fl\u0131k_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 289
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d9f4190f026e720800000000000000
+      internalID: 2875021629724794248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seyyar ocak ba\u015Fl\u0131k_1"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 386
+        width: 234
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ed65520527e4b90800000000000000
+      internalID: -7255736261097890161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seyyar ocak ba\u015Fl\u0131k_2"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 386
+        width: 265
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2e6c872bc5a7890800000000000000
+      internalID: -7459547911185571152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seyyar ocak ba\u015Fl\u0131k_3"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 386
+        width: 267
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75617c793914a9c70800000000000000
+      internalID: 8978560909278910039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seyyar ocak ba\u015Fl\u0131k_4"
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 382
+        width: 215
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f6e25d7129fd5a0800000000000000
+      internalID: -6494311506586472659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seyyar ocak ba\u015Fl\u0131k_5"
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 383
+        width: 247
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8eefa3a8ebbb660800000000000000
+      internalID: 7402719913418090672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seyyar ocak ba\u015Fl\u0131k_6"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 313
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791704d24285cd430800000000000000
+      internalID: 3809016297249862039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seyyar ocak ba\u015Fl\u0131k_7"
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 6
+        width: 282
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5162f5133c62fd250800000000000000
+      internalID: 5971534250705364501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seyyar ocak ba\u015Fl\u0131k_8"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 286
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad11b0079971d4d0800000000000000
+      internalID: -3111572178077672022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "seyyar ocak ba\u015Fl\u0131k_9"
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1
+        width: 274
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861df8edf1f5a8430800000000000000
+      internalID: 3785943027240915304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "seyyar ocak ba\u015Fl\u0131k_0": 2875021629724794248
+      "seyyar ocak ba\u015Fl\u0131k_1": -7255736261097890161
+      "seyyar ocak ba\u015Fl\u0131k_2": -7459547911185571152
+      "seyyar ocak ba\u015Fl\u0131k_3": 8978560909278910039
+      "seyyar ocak ba\u015Fl\u0131k_4": -6494311506586472659
+      "seyyar ocak ba\u015Fl\u0131k_5": 7402719913418090672
+      "seyyar ocak ba\u015Fl\u0131k_6": 3809016297249862039
+      "seyyar ocak ba\u015Fl\u0131k_7": 5971534250705364501
+      "seyyar ocak ba\u015Fl\u0131k_8": -3111572178077672022
+      "seyyar ocak ba\u015Fl\u0131k_9": 3785943027240915304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
